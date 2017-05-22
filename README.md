@@ -1,7 +1,7 @@
 # distributed_password_cracker
 
 <strong>Project Overview:</strong>
-This project is based on creacking a distributed password through SHA1. It performs the permutation to generate all the required words.
+This project is based on cracking a distributed password through SHA1. It performs the permutation to generate all the required words.
 
 <strong>Main Class:</strong> 
 main class is the entry point of the project. It has a main method from within the main method we are creating a master thread and starting the same.
@@ -19,5 +19,5 @@ permutation used to generate all the required words.
 				∑ nPr
 				n=10
 
-r= length of the word.
+r= length of the word. <br>
 n= Total number of alphabets.
