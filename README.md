@@ -19,5 +19,5 @@ permutation used to generate all the required words.
 				∑ nPr
 				n=10
 
-r= length of the word. <br>
+r= Length of the word. <br>
 n= Total number of alphabets.
